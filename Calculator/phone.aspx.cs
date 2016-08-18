@@ -36,6 +36,10 @@ namespace Calculator
             mail.Dispose();
 
             Label1.Text = "Ваше сообщение успешно отправлено!";
+            Button1.Visible = false;
+            Label2.Visible = false;
+            TextBox2.Visible = false;
+            TextBox1.Visible = false;
         }
     }
 }
