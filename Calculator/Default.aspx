@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <p><a rel="nofollow" href="phone.aspx"> Здесь вы сможете отправить мне сообщение </a></p>
+    <p><a href="phone.aspx"> Здесь вы сможете отправить мне сообщение </a></p>
     <form id="form1" runat="server">
     <div>
     
